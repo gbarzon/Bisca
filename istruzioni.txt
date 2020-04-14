@@ -1,0 +1,41 @@
+------------------------------------------------------------
+------------------BISCA-------------------------------------
+------------------------------------------------------------
+
+1) INSTALLARE PYTHON:
+https://www.python.org/downloads/
+Fare il download della versione più nuova
+
+** fate attenzione di selezionare "Add Python to PATH" quando parte la schermata di installazione
+
+
+2) SCARICARE LA CARTELLA BISCA
+- scaricare la cartella
+- fare unzip
+- copiare la cartella sul Desktop
+
+
+3) INSTALLAZIONE PACCHETTI
+- Aprire il prompt dei comandi
+
+- Digitare "pip install pygame" e dare invio
+(Se da errore provare con "pip3" al posto di "pip", vale anche per dopo)
+Aspettare che finisca l'installazione
+- Digitare "pip install numpy" e dare invio
+Aspettare che finisca l'installazione
+- Digitare "pip install requests" e dare invio
+Aspettare che finisca l'installazione
+
+
+** i passaggi sopra indicati 1,2,3 andranno fatti solamente la prima volta
+
+
+4) APRIRE IL GIOCO - da fare ogni volta che si vuole giocare
+- Aprire il prompt dei comandi
+- Digitare "cd Desktop"
+- Digitare "cd bisca"
+- Digitare "python3 bisca.py"
+Se da errore, provare "python bisca.py"
+Se da errore di nuovo, provare "py bisca.py"
+- Se l'errore dice "bisca.py not found", digitare nuovamente "cd bisca" e riprovare con
+"python3 bisca.py" o "python bisca.py" o "py bisca.py"
