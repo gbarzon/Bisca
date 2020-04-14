@@ -1,19 +1,19 @@
 # Bisca
 
-1) INSTALL PYTHON:
+##1) INSTALL PYTHON:
 https://www.python.org/downloads/
 Download the newest version
 
 ** make sure to select "Add Python to PATH" when the installation screen starts.
 
 
-2) DOWNLOAD THE FOLDER BISCA
+##2) DOWNLOAD THE FOLDER BISCA
 - download the folder
 - unzip
 - copy the folder to the Desktop
 
 
-3) PACKAGE INSTALLATION
+##3) PACKAGE INSTALLATION
 - Open the commands prompt
 
 - Type "pip install pygame" and press enter
@@ -28,7 +28,7 @@ Wait for installation to finish
 ** the above steps 1,2,3 are to be done only the first time
 
 
-4) OPEN THE GAME - to do every time you want to play
+##4) OPEN THE GAME - to do every time you want to play
 - Open the command prompt
 - Type "cd Desktop"
 - Type "cd bisca"
