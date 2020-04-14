@@ -1,8 +1,8 @@
 # Bisca
 
 1) INSTALL PYTHON:
-https://www.python.org/downloads/
-Download the newest version
+- https://www.python.org/downloads/
+- Download the newest version
 
 ** make sure to select "Add Python to PATH" when the installation screen starts.
 
