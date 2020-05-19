@@ -1,5 +1,7 @@
 # Bisca
 
+![Image of Yaktocat](https://github.com/GiacomoBarzon/Bisca/blob/master/bisca.png)
+
 1) INSTALL PYTHON:
 - https://www.python.org/downloads/
 - Download the newest version
